@@ -39,6 +39,7 @@ next-env.d.ts
 *.iws
 *.iml
 *.ipr
+.idea/*
 
 ### VS Code ###
 .vscode/
